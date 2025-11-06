@@ -16,3 +16,5 @@ The computer randomly selects a number between **1 and 50**, and you must guess 
 5. Try to find the correct number before you run out of attempts.
 
 ---
+
+## 💡 Example Gameplay
