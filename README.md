@@ -23,3 +23,8 @@ The computer randomly selects a number between **1 and 50**, and you must guess 
 
 Let me think of a number between 1 to 50
 Choose level of difficulty...Type 'easy' or 'hard': easy
+You have 10 remaining to guess the number.
+Guess a Number:- 25
+Your guess is too low
+Guess again
+...
