@@ -60,9 +60,20 @@ git clone https://github.com/DipakSirsath312/Game-Gussing-The-Number.git
 ---
 2. Navigate to the project folder:
 
-cd <Game-Gussing-The-Number>
+cd Game-Gussing-The-Number
 ---
 3. Run the game:
 
 python guessing_game.py
 ---
+
+# 🧩 File Structure
+
+guessing_game.py      # Main game logic
+---
+
+# 👨‍💻 Author
+Dipak Shirsath
+📧 [dipaksirsath312@gmail.com]
+🌐 [GitHub Profile Link https://github.com/DipakSirsath312]
+ ---
