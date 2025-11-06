@@ -77,8 +77,13 @@ guessing_game.py      # Main game logic
 
 # 👨‍💻 Author
 Dipak Shirsath
+
 📧 [dipaksirsath312@gmail.com]
 
 🌐 [GitHub Profile Link https://github.com/DipakSirsath312]
 
- ---
+---
+
+# 🌈 “Simple logic, clean design, endless fun.”
+
+---
