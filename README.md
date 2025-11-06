@@ -33,3 +33,22 @@ Your guess is too low
 
 Guess again
 ...
+
+
+---
+
+## ⚙️ Features
+
+- Random number generation  
+- Two difficulty levels: easy & hard  
+- Interactive console-based gameplay  
+- Friendly user messages
+
+---
+
+## 🚀 How to Run
+
+1. Make sure Python is installed on your system.  
+   You can check with:
+   ```bash
+   python --version
