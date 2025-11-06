@@ -18,3 +18,8 @@ The computer randomly selects a number between **1 and 50**, and you must guess 
 ---
 
 ## 💡 Example Gameplay
+
+-------------Guessing The Number--------------
+
+Let me think of a number between 1 to 50
+Choose level of difficulty...Type 'easy' or 'hard': easy
