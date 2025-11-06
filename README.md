@@ -52,3 +52,17 @@ Guess again
    You can check with:
    ```bash
    python --version
+
+---
+1. Clone the repository:
+
+git clone https://github.com/DipakSirsath312/Game-Gussing-The-Number.git
+---
+2. Navigate to the project folder:
+
+cd <Game-Gussing-The-Number>
+---
+3. Run the game:
+
+python guessing_game.py
+---
